@@ -9,3 +9,7 @@ Public information around the
 application.
 
 Files issues over here: [GitHub Issues](https://github.com/ZeeZide/SVGShaper/issues).
+
+Two useful parts of SVG Shaper are available as OpenSource:
+- A SwiftUI [SVG View](https://github.com/ZeeZide/SVGWebView)
+- A source [Code Editor](https://github.com/ZeeZide/CodeEditor) with syntax highlighting.
